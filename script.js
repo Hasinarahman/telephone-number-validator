@@ -16,4 +16,4 @@ check.addEventListener('click', () => {
   }
 });
 
-clear.addEventListener('click', () => { results.innerText = '' });
+clear.addEventListener('click', () => { results.innerText = ''; });
