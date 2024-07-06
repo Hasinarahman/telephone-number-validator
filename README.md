@@ -63,7 +63,7 @@ clear.addEventListener('click', () => { results.innerText = ''; });
 
 ## Demo 📸
 
-
+![telephon](https://github.com/Hasinarahman/telephone-number-validator/assets/168626170/3e9ef0be-4fdd-4de4-a588-722e14ef3583)
 
 ## Technologies Used 🛠️
 
@@ -73,7 +73,7 @@ clear.addEventListener('click', () => { results.innerText = ''; });
 
 ## Features ⭐
 
-- Building Telephone number converter.
+- Building Telephone number vaildator.
 
 ## Author 👩‍💻
 
