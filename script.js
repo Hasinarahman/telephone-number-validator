@@ -7,7 +7,7 @@ check.addEventListener('click', () => {
   const regex = /^(1\s?)?(\(\d{3}\)|\d{3})([\s-]?)\d{3}([\s-]?)\d{4}$/;
 
   if (!input.value) {
-    results.innerHTML = 'Please provide a phone number';
+    alert('Please provide a phone number');
     results.innerText = '';
   } else if (regex.test(input.value)) {
     results.innerText = `Valid US number: ${input.value}`;
