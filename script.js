@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', () => {
 const input = document.getElementById('user-input');
 const check = document.getElementById('check-btn');
 const clear = document.getElementById('clear-btn');
@@ -17,3 +18,4 @@ check.addEventListener('click', () => {
 });
 
 clear.addEventListener('click', () => { results.innerText = ''; });
+});
