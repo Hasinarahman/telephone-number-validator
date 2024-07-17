@@ -65,6 +65,10 @@ clear.addEventListener('click', () => { results.innerText = ''; });
 
 ![telephon](https://github.com/Hasinarahman/telephone-number-validator/assets/168626170/3e9ef0be-4fdd-4de4-a588-722e14ef3583)
 
+
+## Deploy link
+(https://hasinarahman.github.io/telephone-number-validator/)
+
 ## Technologies Used 🛠️
 
 - HTML
